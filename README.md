@@ -3,8 +3,9 @@
 ## About
 
 This repository contains the work developed by Narvaez, G, et al. in *Machine learning for site-adaptation and solar
-radiation forecasting* [1]. Here is shown the site adaptation process for a database in situ with data of a station
-located in Nariño, Colombia.
+radiation forecasting* [1]. The following shows the site adaptation process for an on-site database with data from a
+station located in Nariño, Colombia. All is developed in the 
+[Site_Adaptation_Regression_Models.ipynb file](Site_Adaptation_Regression_Models.ipynb).
 
 ## Work Environment
 
