@@ -7,6 +7,10 @@ radiation forecasting* [1]. The following shows the site adaptation process for 
 station located in Nariño, Colombia. All is developed in the 
 [Site_Adaptation_Regression_Models.ipynb file](Site_Adaptation_Regression_Models.ipynb).
 
+## How it works?
+
+All the project development is self content in the [*Site_Adaptation_Regression_Models.ipynb*](Site_Adaptation_Regression_Models.ipynb) notebook, feel free if you want to modify some parameters and run different train experiments.
+
 ## Work Environment
 
 See [SETUP.md](SETUP.md).
